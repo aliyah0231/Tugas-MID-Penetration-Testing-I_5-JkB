@@ -19,7 +19,7 @@
 
 ## 📂 Unduh Dokumen (Download)
 
-### 1. 📄 [SkenariO (Klik untuk Unduh)](SKENARIO_PENGERJAAN.pdf)
+### 1. 📄 [Skenario (Klik untuk Unduh)](SKENARIO_PENGERJAAN.pdf)
 Dokumen ini berisi **alur tahapan teknis** yang dilakukan dari awal hingga akhir, termasuk konfigurasi laboratorium dan perintah-perintah yang dijalankan.
 
 ### 2. 📊 [Laporan (Klik untuk Unduh)](LAPORAN_LENGKAP.pdf)
