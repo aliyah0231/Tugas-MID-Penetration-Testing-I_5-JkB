@@ -63,13 +63,4 @@ Dokumentasi bukti pengerjaan disimpan dalam folder terstruktur:
 │
 ├── 📂 dokumentasi_gambar/      <-- (Kumpulan Bukti Screenshot)
 │   ├── 📂 1_passive_recon/
-│   │   ├── subdomain_dork.png
-│   │   ├── linkedin_search.png
-│   │   ├── builtwith_tech.png
-│   │   └── github_leak.png
-│   │
 │   └── 📂 2_active_recon/
-│       ├── nmap_tcp_scan.png
-│       ├── nmap_udp_scan.png
-│       ├── dhcp_fix_config.png
-│       └── wireshark_analysis.png
