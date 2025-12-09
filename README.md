@@ -19,10 +19,10 @@
 
 ## 📂 Unduh Dokumen (Download)
 
-### 1. 📄 [Skenario (Klik untuk Unduh)](SKENARIO_PENGERJAAN.pdf)
+### 1. 📄 [Skenario (Klik untuk Unduh)](SKENARIO_ETHICAL_HACKING_AND_PENETRATION_TESTING_1.PDF)
 Dokumen ini berisi **alur tahapan teknis** yang dilakukan dari awal hingga akhir, termasuk konfigurasi laboratorium dan perintah-perintah yang dijalankan.
 
-### 2. 📊 [Laporan (Klik untuk Unduh)](LAPORAN_LENGKAP.pdf)
+### 2. 📊 [Laporan (Klik untuk Unduh)](LAPORAN_ETHICAL_HACKING_UTS.PDF)
 Dokumen ini berisi **hasil analisis**, bukti tangkapan layar (*screenshots*), dan kesimpulan mengenai kerentanan yang ditemukan pada target.
 
 ---
